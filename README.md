@@ -33,3 +33,15 @@
 
 ![nkust](https://user-images.githubusercontent.com/113968626/191193410-4a2636da-ca88-45de-9cce-36aaed12f7cf.png)
 
+---
+
+```JavaScript
+var s = "JavaScript syntax hilighting";
+alert(s);
+```
+
+| **Markdown**        | **Less**           | **Pretty**  |
+| :------------- |:-------------| :-----|
+|Still          |   |**nicely**|
+|1              |2              |3         |
+
