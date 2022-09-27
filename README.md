@@ -46,3 +46,4 @@ alert(s);
 |Still          |   |**nicely**|
 |1              |2              |3         |
 
+🍎
